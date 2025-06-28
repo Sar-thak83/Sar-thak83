@@ -15,10 +15,10 @@ Problem-solving Full Stack Developer who transforms ideas into scalable web appl
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-sahu-5878082b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-sahu-5878082b2" height="30" width="40" /></a>
-<a href="https://x.com/Sarth_k83" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://instagram.com/_sarthak._.83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sarthak._.83" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak8385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak8385" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak_8303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak_8303" height="30" width="40" /></a>
+<a href="https://x.com/Sarth_k83" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="Sarth_k83" height="30" width="40" /></a>
+
+
+
 </p>
 
 ## 💻 Languages and Tools
