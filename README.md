@@ -26,8 +26,13 @@ Problem-solving Full Stack Developer who transforms ideas into scalable web appl
  </p>
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sar-thak83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-thak83&theme=dark&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sar-thak83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sar-thak83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=400&custom_title=Sarthak's%20GitHub%20Stats" height="180" alt="GitHub stats card showing commit statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-thak83&theme=dark&hide_border=false&card_width=400&background=282A36&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&dates=F8F8F2&sideNums=F8F8F2&currStreakNum=F8F8F2&sideLabels=6272A4" height="180" alt="GitHub contribution streak statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sar-thak83&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages&exclude_repo=repo1,repo2" height="180" alt="Most frequently used programming languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sar-thak83&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub contribution activity graph" />
 </div>
