@@ -10,7 +10,7 @@ Problem-solving Full Stack Developer who transforms ideas into scalable web appl
 - 🌱 I'm learning **Generative AI** 
 - 💬 Ask me about **React, Next.js, tRPC, MERN stack, Redis, and Data Structures & Algorithms**
 - 📫 How to reach me: **sarthak8385@gmail.com**
-- 📍 Based in **Gandhinagar, India**
+- 📍 Based in **Gandhinagar,India**
 
 ## 🌐 Connect With Me
 <p align="left">
